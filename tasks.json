@@ -1,0 +1,76 @@
+{
+    "tasks": [
+      {
+        "id": "task1",
+        "lessonIds": ["lesson1", "lesson2"],
+        "question": "What is the capital of France?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "London"
+          },
+          {
+            "id": "opt2",
+            "text": "Paris"
+          },
+          {
+            "id": "opt3",
+            "text": "Berlin"
+          },
+          {
+            "id": "opt4",
+            "text": "Madrid"
+          }
+        ],
+        "correctOptionId": "opt2"
+      },
+      {
+        "id": "task2",
+        "lessonIds": ["lesson2"],
+        "question": "What is 2 + 2?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "3"
+          },
+          {
+            "id": "opt2",
+            "text": "4"
+          },
+          {
+            "id": "opt3",
+            "text": "5"
+          },
+          {
+            "id": "opt4",
+            "text": "6"
+          }
+        ],
+        "correctOptionId": "opt2"
+      },
+      {
+        "id": "task3",
+        "lessonIds": ["lesson1", "lesson3"],
+        "question": "Which planet is closest to the Sun?",
+        "options": [
+          {
+            "id": "opt1",
+            "text": "Venus"
+          },
+          {
+            "id": "opt2",
+            "text": "Earth"
+          },
+          {
+            "id": "opt3",
+            "text": "Mercury"
+          },
+          {
+            "id": "opt4",
+            "text": "Mars"
+          }
+        ],
+        "correctOptionId": "opt3"
+      }
+    ]
+  }
