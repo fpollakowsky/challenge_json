@@ -1,0 +1,53 @@
+{
+    "id": "lesson4",
+    "title": "Introduction to Programming",
+    "description": "Learn the basics of programming concepts and logic",
+    "pages": [
+      {
+        "id": "page1",
+        "order": 1,
+        "components": [
+          {
+            "id": "comp1",
+            "text": "Welcome to Programming! In this lesson, we'll explore the fundamental concepts that power modern software."
+          },
+          {
+            "id": "comp2",
+            "imageUrl": "https://images.unsplash.com/photo-1735116356965-ad5b323d1af8?q=80&w=3132&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+        ]
+      },
+      {
+        "id": "page2",
+        "order": 2,
+        "components": [
+          {
+            "id": "comp3",
+            "text": "Variables are like containers that store information. They are fundamental building blocks in programming."
+          },
+          {
+            "id": "comp4",
+            "text": "Example: int age = 25;"
+          }
+        ]
+      },
+      {
+        "id": "page3",
+        "order": 3,
+        "components": [
+          {
+            "id": "comp5",
+            "text": "Control flow helps us make decisions in our code. We use if statements and loops to control program execution."
+          },
+          {
+            "id": "comp6",
+            "imageUrl": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          },
+          {
+            "id": "comp7",
+            "text": "Practice: Try writing an if statement!"
+          }
+        ]
+      }
+    ]
+  }

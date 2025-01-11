@@ -1,0 +1,63 @@
+{
+    "lessons": [
+      {
+        "id": "lesson1",
+        "title": "Geography Basics",
+        "description": "Learn about world capitals and geography",
+        "pages": [
+          {
+            "id": "page1",
+            "order": 1,
+            "components": [
+              {
+                "id": "comp1",
+                "text": "In this lesson, we'll learn about European capitals"
+              },
+              {
+                "id": "comp2",
+                "imageUrl": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lesson2",
+        "title": "Basic Mathematics",
+        "description": "Introduction to arithmetic operations",
+        "pages": [
+          {
+            "id": "page1",
+            "order": 1,
+            "components": [
+              {
+                "id": "comp1",
+                "text": "Let's learn about addition"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "lesson3",
+        "title": "Solar System",
+        "description": "Exploring our planetary neighborhood",
+        "pages": [
+          {
+            "id": "page1",
+            "order": 1,
+            "components": [
+              {
+                "id": "comp1",
+                "text": "The planets in our solar system"
+              },
+              {
+                "id": "comp2",
+                "imageUrl": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
